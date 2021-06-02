@@ -49,6 +49,7 @@ Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转
 
 
 |  方向   | 子方向  |  内容|
+|  ----  | ----  | ----|
 |  分布式一致性协议  |  Raft  |      |
 |         | E-Paxos |       |
 |  事务  |  隔离级别       |   传统   |
