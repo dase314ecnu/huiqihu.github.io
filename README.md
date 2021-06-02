@@ -55,6 +55,9 @@ Welcome  discussion and cooperation ^_^ （一切内容仅代表个人观点,转
 |  事务  |  隔离级别       |   传统   |
 |      |        |   多版本   |
 |      |        |   分布式    |
+|      |    并发控制 | 内存数据库|
+|      |    并发控制 | PG & MySQL|
+
 
 
 
